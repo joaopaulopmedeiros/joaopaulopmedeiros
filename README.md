@@ -28,7 +28,7 @@ Studying is always going on. I'd like to bring up:
 
 
 ## ❓ Questions
-Life is a huge and unsolved questions. As We question, We study. According to [Paulo Freire](https://www.google.com/search?q=paulo+freire&oq=paulo+freire&aqs=chrome..69i57j46j35i39j0l4j69i61.2249j0j7&sourceid=chrome&ie=UTF-8):
+Life is a huge and unsolved question. As We question, We study. According to [Paulo Freire](https://www.google.com/search?q=paulo+freire&oq=paulo+freire&aqs=chrome..69i57j46j35i39j0l4j69i61.2249j0j7&sourceid=chrome&ie=UTF-8):
 > Education doesn't change the world.
 > Education changes people.
 > People change the world.
