@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@jp15_thinker-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jp15_thinker)](https://twitter.com/jp15_thinker) [![Linkedin Badge](https://img.shields.io/badge/-joaopaulopmedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulopmedeiros/)](https://www.linkedin.com/in/joaopaulopmedeiros/)
 [![Gmail Badge](https://img.shields.io/badge/-joaopaulopmedeiros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulopmedeiros@gmail.com)](mailto:joaopaulopmedeiros@gmail.com)
 
-Since I was a child I've got excited about learning new things. Over the years, my will of understading has grown more and more! Math, Physics, Chemistry and Philosofy. All of that leaded me to IT. I love learning! I love coding! ❤️ 
+Since I was a child I've got happy about learning new things. Over the years, my will of understading has grown more and more! Math, Physics, Chemistry and Philosofy. All of that leaded me to IT. I love learning! I love coding! ❤️ 
 
 ## 💻 Technologies
 Studying is always going on. I'd like to bring up:
@@ -18,9 +18,9 @@ Studying is always going on. I'd like to bring up:
   - Reactive libraries: VueJS and ReactJS;
 - Backend development:
   - Core PHP and frameworks Laravel and Codeigniter;
-  - Node with Express;
+  - Node and framework Express;
 - Mobile application development:
-  - React Native (Expo); 
+  - React Native and Expo; 
 
 ## ℹ Experience
 - Web developer at [NAVI](https://navi.ifrn.edu.br);
