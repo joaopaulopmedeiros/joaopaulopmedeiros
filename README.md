@@ -15,14 +15,16 @@ Studying is always going on. I'd like to bring up:
   - HTML;
   - (S)CSS;
   - JS (ES6+);
-  - Reactive libraries: VueJS and ReactJS;
+  - Reactive libraries: VueJS, Angular and ReactJS;
 - Backend development:
-  - Core PHP and frameworks Laravel and Codeigniter;
+  - PHP and frameworks Laravel and Codeigniter;
   - Node and framework Express;
+  - .NET Core;
 - Mobile application development:
   - React Native and Expo; 
 
 ## ℹ Experience
+- Developer at [Indra](https://indracompany.com);
 - Web developer at [NAVI](https://navi.ifrn.edu.br);
 - Researcher and web computer technician student at [IFRN](https://portal.ifrn.edu.br/);
 
