@@ -7,7 +7,7 @@
 Since I was a child I've got excited about learning new things. Over the years, my will of understading has grown more and more! Math, Physics, Chemistry and Philosofy. All of that leaded me to IT. I love learning! I love coding! ❤️ 
 
 
-### Languages and tools:
+### Languages and tools
 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
@@ -20,13 +20,13 @@ Since I was a child I've got excited about learning new things. Over the years, 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
-### Principles and concepts:
+### Principles and concepts
 *PS: Techs come and go, principles stay strong so I keep focusing on*: 
   - SOLID;
   - Clean Code;
   - Design Patterns;
 
-### Keep in mind:
+### Keep in mind
 Life is a huge and unsolved question. As We question, We study. According to [Paulo Freire](https://www.google.com/search?q=paulo+freire&oq=paulo+freire&aqs=chrome..69i57j46j35i39j0l4j69i61.2249j0j7&sourceid=chrome&ie=UTF-8):
 > Education doesn't change the world.
 > Education changes people.
