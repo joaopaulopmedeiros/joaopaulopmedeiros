@@ -20,12 +20,12 @@ Since I was a child I've got excited about learning new things. Over the years, 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
-### ℹ Experience
+### Experience ℹ:
 - Developer at [Indra](https://indracompany.com);
 - Web developer at [NAVI](https://navi.ifrn.edu.br);
 - Researcher and web computer technician student at [IFRN](https://portal.ifrn.edu.br/);
 
-### Keep in mind 🧠
+### Keep in mind 🧠:
 Life is a huge and unsolved question. As We question, We study. According to [Paulo Freire](https://www.google.com/search?q=paulo+freire&oq=paulo+freire&aqs=chrome..69i57j46j35i39j0l4j69i61.2249j0j7&sourceid=chrome&ie=UTF-8):
 > Education doesn't change the world.
 > Education changes people.
