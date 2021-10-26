@@ -7,7 +7,7 @@
 Since I was a child I've got excited about learning new things. Over the years, my will of understading has grown more and more! Math, Physics, Chemistry and Philosofy. All of that leaded me to IT. I love learning! I love coding! ❤️ 
 
 
-### Languages and Tools:
+### Languages and tools I'm most interested in recently:
 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
