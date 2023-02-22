@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulopmedeiros@gmail.com)](mailto:joaopaulopmedeiros@gmail.com)
 
 ### About me
-I am a brazilian software engineer passionate about solving problems and helping people/business grow through IT. I currently build high scalable web applications for BTG Pactual Bank and I am most of time interested on:
+I am a brazilian software engineer passionate about solving problems and helping people/business grow through IT. I currently build high scalable web applications for ViaHub and I am most of time interested on:
 - How things work under the hood;
 - Data Structures and Algorithms;
 - Clean Code;
